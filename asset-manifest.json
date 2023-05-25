@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-BlackJack/static/css/main.2a0d59dd.css",
+    "main.js": "/React-BlackJack/static/js/main.054fc927.js",
+    "static/media/playing-card-back.jpg": "/React-BlackJack/static/media/playing-card-back.a4b1e49dfef4ef76f05e.jpg",
+    "static/media/Jack of hearts.png": "/React-BlackJack/static/media/Jack of hearts.4969fb73292f5469e08a.png",
+    "static/media/King of hearts.png": "/React-BlackJack/static/media/King of hearts.47f69c9c9a56f2bcab5b.png",
+    "static/media/Jack of clubs.png": "/React-BlackJack/static/media/Jack of clubs.7f73a1ae418acf4ad5fb.png",
+    "static/media/Jack of spades.png": "/React-BlackJack/static/media/Jack of spades.113970a02f33b1649001.png",
+    "static/media/King of diamonds.png": "/React-BlackJack/static/media/King of diamonds.c1a3eadab7c454f0831f.png",
+    "static/media/Queen of spades.png": "/React-BlackJack/static/media/Queen of spades.a4dabd4d6a235c07a556.png",
+    "static/media/Queen of hearts.png": "/React-BlackJack/static/media/Queen of hearts.2dc072b7180d97cf89db.png",
+    "static/media/King of spades.png": "/React-BlackJack/static/media/King of spades.e6f2e18965b77c5de302.png",
+    "static/media/Queen of clubs.png": "/React-BlackJack/static/media/Queen of clubs.e962a0a1439e7e2f717c.png",
+    "static/media/King of clubs.png": "/React-BlackJack/static/media/King of clubs.e2930ec432ff60ea9aa2.png",
+    "static/media/Jack of diamonds.png": "/React-BlackJack/static/media/Jack of diamonds.cc406ab54f309d280739.png",
+    "static/media/Queen of diamonds.png": "/React-BlackJack/static/media/Queen of diamonds.83897c96e03ddab2d89c.png",
+    "index.html": "/React-BlackJack/index.html",
+    "main.2a0d59dd.css.map": "/React-BlackJack/static/css/main.2a0d59dd.css.map",
+    "main.054fc927.js.map": "/React-BlackJack/static/js/main.054fc927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0d59dd.css",
+    "static/js/main.054fc927.js"
+  ]
+}
